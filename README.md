@@ -6,7 +6,7 @@
 Discover tranquility with ZenTimer, a web-based meditation timer designed to aid your meditation practice.
 
 ## Demo 
-Live Demo: [Demo](https://github.com/cr-booker/zen-meditation-timer)
+Live Demo: [Demo](https://cr-booker.github.io/zen-meditation-timer/)
 
 ## Getting Started 
 1. Clone this project  
