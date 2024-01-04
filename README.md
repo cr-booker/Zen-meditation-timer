@@ -1,4 +1,4 @@
-# ZenTimer: Your Online Meditation Companion
+# Zen Timer: Your Online Meditation Companion
 
 ![Screenshot](screenshots/screenshot-1.png)
 
